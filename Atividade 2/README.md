@@ -1,8 +1,7 @@
 # Projeto Foobar – Sistemas Operacionais
 
 Este projeto contém um código-fonte em **C++** no arquivo `foobar.cxx`.
-O relatório referente a esta atividade está disponíveis em [Atividade 2 – Relatório Inicialização de Programas](Atividade 2/Relatório Inicialização de Programas.pdf)
-
+O relatório referente a esta atividade está disponíveis em [Relatório Inicialização de Programas](Atividade%202/Relatório%20Inicialização%20de%20Programas.pdf)
 
 ## Compilação
 

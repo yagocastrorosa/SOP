@@ -5,7 +5,7 @@ Cada atividade está organizada em sua própria pasta, contendo os códigos, rel
 
 ## Atividades
 
-- [Atividade 1](Atividade 1)  
-- [Atividade 2](Atividade 2)  
-- [Atividade 3](Atividade 3)  
-- [Atividade 4](Atividade 4)  
+- [Atividade 1](Atividade%201)  
+- [Atividade 2](Atividade%202)  
+- [Atividade 3](Atividade%203)  
+- [Atividade 4](Atividade%204)
